@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Jul 24 12:58:26 2021
-
-@author: yakupcatalkaya
-"""
 
 import requests
 import os
