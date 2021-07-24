@@ -2,7 +2,13 @@
 
 import requests
 import os
-import wget
+
+try:
+    import wget
+except:
+    os.system("pip install wget")
+    import wget
+    print("please chech wget library")
 
 def get_url():
     listt=[]
