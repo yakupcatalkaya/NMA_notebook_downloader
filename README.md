@@ -9,8 +9,12 @@ Because os and requests are default, you just have to install wget.
 
 For anaconda, please use  
 
+```
 conda install -c anaconda wget 
+```
 
 For pip, 
 
+```
 pip install wget
+```
